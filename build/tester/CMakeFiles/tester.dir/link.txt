@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtester.a CMakeFiles/tester.dir/src/realsense_hello.cpp.o
+/usr/bin/ranlib libtester.a
